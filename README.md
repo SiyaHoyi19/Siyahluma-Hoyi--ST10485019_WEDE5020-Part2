@@ -1,2 +1,5 @@
-# Siyahluma Hoyi/ ST10485019_WEDE5020-Part2
+# Part2 README
+overview
+References
+Screenshots
 
