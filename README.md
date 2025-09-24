@@ -1,5 +1,5 @@
 # Part2 README
-overview-
+overview-This project focuses on enhancing the look of the website using CSS styling and responsive design techniques. Its goal is to ensure that the web pages are both visually appealing and functional across different deviceses such ass desktops and mobiles.
 References-
 Screenshots-
 Breakpoint-/* Tablet */
